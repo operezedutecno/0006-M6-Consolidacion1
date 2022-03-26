@@ -1,0 +1,10 @@
+- Crear Proyecto con git.
+- Iniciar proyecto con npm.
+- incluir express y nodemon.
+- Publicar proyecto de Github. 
+- Incluir bootstrap y jquery. Instalarlos con NPM.
+- Publicar ruta raíz que muestre contenido HTML con 2 opciones listar empleados y registrar. El archivo HTML debe estar ubicado en la carpeta /views
+- Crear archivo .json que tenga 1 objeto con 2 elementos (tipos_empleados => Objeto, empleados => Arreglo)
+- Publicar la ruta para mostrar listado de empleados.
+- Publicar la ruta para mostrar el fomulario de registrar.
+- Publicar la ruta para procesar el registro y redireccionar al listado.
