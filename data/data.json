@@ -1,5 +1,5 @@
 {
-    "tipoEmpleado": [
+    "tipoEmpleados": [
         {
             "id": 1,
             "descripcion": "Practicante"
