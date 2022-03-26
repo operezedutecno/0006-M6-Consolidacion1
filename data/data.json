@@ -18,11 +18,21 @@
             "id": 123,
             "nombre": "Marco",
             "tipoEmpleadoId": 2
-        }, 
+        },
         {
             "id": 234,
             "nombre": "Juan",
             "tipoEmpleadoId": 1
+        },
+        {
+            "id": "a178dd68",
+            "nombre": "Betsy",
+            "tipoEmpleadoId": 2
+        },
+        {
+            "id": "4f59f4ed",
+            "nombre": "Marcelo",
+            "tipoEmpleadoId": 3
         }
     ]
 }
