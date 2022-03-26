@@ -1,0 +1,28 @@
+{
+    "tipoEmpleado": [
+        {
+            "id": 1,
+            "descripcion": "Practicante"
+        },
+        {
+            "id": 2,
+            "descripcion": "Contrato indefinido"
+        },
+        {
+            "id": 3,
+            "descripcion": "Honorarios profesionales"
+        }
+    ],
+    "empleados": [
+        {
+            "id": 123,
+            "nombre": "Marco",
+            "tipoEmpleadoId": 2
+        }, 
+        {
+            "id": 234,
+            "nombre": "Juan",
+            "tipoEmpleadoId": 1
+        }
+    ]
+}

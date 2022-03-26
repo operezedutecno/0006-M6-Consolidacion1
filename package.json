@@ -14,7 +14,8 @@
     "express": "^4.17.3",
     "jquery": "^3.6.0",
     "moment": "^2.29.1",
-    "uuid": "^8.3.2"
+    "uuid": "^8.3.2",
+    "yargs": "^17.4.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
